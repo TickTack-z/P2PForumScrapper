@@ -1,0 +1,4 @@
+total num of words: 2242947	
+ppct: 2.21	
+npct: 1.81	
+pos_neg_ratio: 1.22
